@@ -1,0 +1,23 @@
+.title {
+    font-family: 'Brush Script MT', cursive;
+    font-size: 44px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.msg {
+    font-size: 22px;
+    margin: 5px;
+}
+
+.link {
+    font-size: 18px;
+    color: darkblue;
+    margin-top: 5px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.link:hover {
+    text-decoration: underline;
+}
